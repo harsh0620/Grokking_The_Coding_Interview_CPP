@@ -6,4 +6,11 @@
 
 ### Sliding Window
 
+<details>
+  <summary>Practice</summary>
+
+  - [Maximum Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
+
+</details>
+
 - [Maximum Sum Subarray of Size K (easy)](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
