@@ -1,9 +1,9 @@
-# GROKKING THE CODING INTERVIEW PRACTICE REPO BY
+# GROKKING THE CODING INTERVIEW PRACTICE REPO
 
-## [https://www.educative.io/courses/grokking-coding-interview-patterns-cpp](EDUCATIVE.IO)
+## [BY EDUCATIVE.IO](https://www.educative.io/courses/grokking-coding-interview-patterns-cpp)
 
-## [https://dvpr.gitbook.io/coding-interview-patterns/](FOLLOWING THIS WEBSITE)
+## [FOLLOWING THIS WEBSITE](https://dvpr.gitbook.io/coding-interview-patterns/)
 
 ### Sliding Window
 
-- [https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1](Maximum Sum Subarray of Size K (easy))
+- [Maximum Sum Subarray of Size K (easy)](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
